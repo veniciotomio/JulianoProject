@@ -1,0 +1,332 @@
+a:link{
+    text-decoration: none;
+  color: #55A29E
+}
+
+a:visited {
+    color: #55A29E;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+
+#bordaSuperior{
+   
+    background-color: #28505F;
+    width: 100%;
+    height: 9%;
+    left: 0px;
+    top: 0px;
+    position: fixed;
+}
+
+#logo{
+    top: -10%;
+    left: 1%;
+    font-family: Times Neue Roman;
+    position: fixed;
+     font-size: 400%;
+    color: #55A29E;
+}
+
+#imagemUser{
+    top: 20%;
+    left: 5%;
+    position: fixed;
+    width: 8%;
+}
+
+#nomeLogin{
+    top: 38%;
+    left: 3%;
+    color:#28505F; 
+    position: fixed;
+    font-size: 150%;
+    font-family: Times Neue Roman;
+    
+}
+
+#dadosPessoais{
+    top: 50%;
+    left: 1%;
+    color:#28505F; 
+    position: fixed;
+    font-size: 150%;
+    font-family: Times Neue Roman;
+    
+}
+
+#folha{
+    top: 60%;
+    left: 1%;
+    color:#28505F; 
+    position: fixed;
+    font-size: 150%;
+    font-family: Times Neue Roman;
+    
+}
+
+#ponto{
+    top: 70%;
+    left: 1%;
+    color:#28505F; 
+    position: fixed;
+    font-size: 150%;
+    font-family: Times Neue Roman;
+    
+}
+
+#bannerMenu{
+    top: 9%;
+    left: 18%;
+    position: fixed;
+    width:64%;
+}
+
+#campo{
+    
+    background-color: #55A29E;
+    font-size: 180%;
+    position: fixed;
+    width:48%;
+    top:1.5%;
+    left: 50%;
+     font-family: Times Neue Roman;
+    border: none;
+}
+
+#imagemLupa{
+    position: fixed;
+    top: 10%;
+    left: 90%;
+    width: 100%;
+}
+
+#bordaLateral{
+    background-color: #55A29E;
+    width: 18%;
+    left: 0;
+    height: 50%;
+    position: fixed;
+}
+
+
+
+#bordaLateral2{
+    background-color: #28505F;
+    width: 18%;
+    right: 0;
+    height: 84.4%;
+    position: fixed;
+}
+
+#bordaLateral3{
+    background-color: #28505F;
+    width: 18%;
+    top:50%;
+    left: 0;
+    height: 35.4%;
+    position: fixed;
+}
+
+#email{
+    top: 12%;
+    right: 5%;
+    position: fixed;
+    font-size: 105%;
+    color: #55A29E;
+    font-family: Times Neue Roman;
+    
+}
+
+#ramais{
+    top: 22%;
+    right: 3.5%;
+    color:#28505F; 
+    position: fixed;
+    font-size: 105%;
+    font-family: Times Neue Roman;
+    
+}
+
+#central{
+    top: 32%;
+    right: 1%;
+    color:#28505F; 
+    position: fixed;
+    font-size: 105%;
+    font-family: Times Neue Roman;
+    
+}
+
+#niver{
+    top: 42%;
+    right: 1.2%;
+    color:#28505F; 
+    position: fixed;
+    font-size: 105%;
+    font-family: Times Neue Roman;
+    
+}
+
+#univer{
+    top: 52%;
+    right: 1.1%;
+    color:#28505F; 
+    position: fixed;
+    font-size: 105%;
+    font-family: Times Neue Roman;
+    
+}
+
+#bi{
+    top: 62%;
+    right: 6%;
+    color:#28505F; 
+    position: fixed;
+    font-size: 105%;
+    font-family: Times Neue Roman;
+    
+}
+
+#base{
+    top: 72%;
+    right: 4%;
+    color:#28505F; 
+    position: fixed;
+    font-size: 105%;
+    font-family: Times Neue Roman;
+    
+}
+
+#rh{
+    top: 10%;
+    position: fixed;
+    left: 20%;
+    font-size: 250%;
+    font-family: Times Neue Roman;
+    color:#28505F;
+}
+
+#numeroRH{
+    top: 20%;
+    position: fixed;
+    left: 20%;
+    font-size: 150%;
+    font-family: Times Neue Roman;
+    color:#28505F;
+}
+
+#port1{
+    top: 25%;
+    position: fixed;
+    left: 20%;
+    font-size: 250%;
+    font-family: Times Neue Roman;
+    color:#28505F;
+}
+
+#numeroport1{
+    top: 35%;
+    position: fixed;
+    left: 20%;
+    font-size: 150%;
+    font-family: Times Neue Roman;
+    color:#28505F;
+}
+
+#adm{
+    top: 40%;
+    position: fixed;
+    left: 20%;
+    font-size: 250%;
+    font-family: Times Neue Roman;
+    color:#28505F;
+}
+
+#numeroadm{
+    top: 50%;
+    position: fixed;
+    left: 20%;
+    font-size: 150%;
+    font-family: Times Neue Roman;
+    color:#28505F;
+}
+
+#mark{
+    top: 55%;
+    position: fixed;
+    left: 20%;
+    font-size: 250%;
+    font-family: Times Neue Roman;
+    color:#28505F;
+}
+
+#numeromark{
+    top: 65%;
+    position: fixed;
+    left: 20%;
+    font-size: 150%;
+    font-family: Times Neue Roman;
+    color:#28505F;
+}
+    
+#linhaRamais{
+    left: 50%;
+    position: fixed;
+    top: 8%;
+    width: 0.1%;
+    height: 77%;
+    background-color:#28505F;
+    
+}
+
+#ti{
+    top: 10%;
+    position: fixed;
+    left: 52%;
+    font-size: 250%;
+    font-family: Times Neue Roman;
+    color:#28505F;
+}
+
+#numeroti{
+    top: 20%;
+    position: fixed;
+    left: 52%;
+    font-size: 150%;
+    font-family: Times Neue Roman;
+    color:#28505F;
+}
+
+#redes{
+    top: 25%;
+    position: fixed;
+    left: 52%;
+    font-size: 250%;
+    font-family: Times Neue Roman;
+    color:#28505F;
+}
+
+#numeroredes{
+    top: 35%;
+    position: fixed;
+    left: 52%;
+    font-size: 150%;
+    font-family: Times Neue Roman;
+    color:#28505F;
+}
+
+#titulo{
+    top: 10%;
+    position: fixed;
+    left: 20%;
+    font-size: 250%;
+    font-family: Times Neue Roman;
+    color:#28505F;
+}
+
